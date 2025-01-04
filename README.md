@@ -67,5 +67,6 @@ mvn clean install
 
 ### Running the example in your local
 ```shell
-copy the war file and depoly the war file in tomcat server 
+copy the war file and depoly the war file in tomcat server
+for tomcat path==>D:\setup\apache-tomcat-10.1.28\webapps
 ```
