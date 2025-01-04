@@ -67,5 +67,5 @@ mvn clean install
 
 ### Running the example in your local
 ```shell
-mvn clean spring-boot:run
+copy the war file and depoly the war file in tomcat server 
 ```
